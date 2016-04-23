@@ -1,0 +1,23 @@
+Name: Test
+Address: test
+Phone Number: 501-766-4363
+Email: gabhawaladhairya@gmail.com
+Username: test
+Password: 12345
+Account Number: 563538211309
+Balance: $12345.0
+
+
+Recent Transaction: Fri Apr 15 03:26:36 CDT 2016
+Deposit: $100
+Balance: $12445.0
+
+Recent Transaction: Tue Apr 19 16:47:20 CDT 2016
+Account transfered from: 188111214808
+Amount transfered: $100
+Balance: $12545.0
+
+Recent Transaction: Tue Apr 19 17:00:28 CDT 2016
+Account transfered to: 563538211309
+Amount transfered: $100
+Balance: $12445.0

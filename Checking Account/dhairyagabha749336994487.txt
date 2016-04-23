@@ -1,0 +1,13 @@
+Name: test
+Address: test
+Phone Number: 5012378121
+Email: gabhawaladhairya@gmail.com
+Username: dhairyagabha
+Password: dhairya1997
+Account Number: 749336994487
+Balance: $1500.0
+
+
+Recent Transaction: Thu Apr 21 09:27:00 CDT 2016
+Withdrawal: $100
+Balance: $1400.0

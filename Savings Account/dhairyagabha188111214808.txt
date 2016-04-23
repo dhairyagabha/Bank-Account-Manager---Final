@@ -1,0 +1,32 @@
+Name: Dhairya Gabhawala
+Address: 13500 Chenal Parkway, Apt#1320,
+Little Rock, Arkansas. - 72211
+Phone Number: 501-444-2792
+Email: gabhawaladhairya@gmail.com
+Username: dhairyagabha
+Password: ashish1973
+Account Number: 188111214808
+Balance: $1000.0
+
+
+Recent Transaction: Fri Apr 15 01:32:22 CDT 2016
+Deposit: $10000
+Balance: $11000.0
+
+Recent Transaction: Fri Apr 15 01:33:31 CDT 2016
+Deposit: $100000
+Balance: $111000.0
+
+Recent Transaction: Fri Apr 15 14:16:39 CDT 2016
+Withdrawal: $1000
+Balance: $110000.0
+
+Recent Transaction: Tue Apr 19 16:47:20 CDT 2016
+Account transfered to: 563538211309
+Amount transfered: $100
+Balance: $109900.0
+
+Recent Transaction: Tue Apr 19 17:00:28 CDT 2016
+Account transfered to: 188111214808
+Amount transfered: $100
+Balance: $110000.0

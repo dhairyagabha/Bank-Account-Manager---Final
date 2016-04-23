@@ -1,0 +1,14 @@
+Name: UALR
+Address: 12345
+Phone Number: 1234567890
+Email: gabhawaladhairya@gmail.com
+Username: ualr
+Password: eit
+Account Number: 960488924866
+Federal Tax Id: 123456
+Balance: $100.0
+
+
+Recent Transaction: Thu Apr 21 11:42:31 CDT 2016
+Deposit: $1500
+Balance: $1600.0
